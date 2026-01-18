@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { MessageCircle } from 'lucide-react';
 
 const WhatsAppButton = () => {
-  const whatsappLink = 'https://wa.me/5582999999999?text=Olá! Gostaria de saber mais sobre os serviços do escritório.';
+  const whatsappLink = 'https://wa.me/5582991301991?text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado.';
 
   return (
     <motion.a

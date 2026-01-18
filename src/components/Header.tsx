@@ -92,11 +92,14 @@ const Header = () => {
                 {link.label}
               </a>
             ))}
-            <Button
-              onClick={() => scrollToSection('#contato')}
-              className="btn-gold text-sm"
-            >
-              Entrar em Contato
+            <Button asChild className="btn-gold text-sm">
+              <a
+                href="https://wa.me/5582991301991?text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado."
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Entrar em Contato
+              </a>
             </Button>
           </div>
 
@@ -137,11 +140,14 @@ const Header = () => {
                   {link.label}
                 </a>
               ))}
-              <Button
-                onClick={() => scrollToSection('#contato')}
-                className="btn-gold w-full mt-4"
-              >
-                Entrar em Contato
+              <Button asChild className="btn-gold w-full mt-4">
+                <a
+                  href="https://wa.me/5582991301991?text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado."
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Entrar em Contato
+                </a>
               </Button>
             </div>
           </motion.div>
