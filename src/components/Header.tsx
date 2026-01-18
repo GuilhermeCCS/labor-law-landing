@@ -94,7 +94,7 @@ const Header = () => {
             ))}
             <Button asChild className="btn-gold text-sm">
               <a
-                href="https://wa.me/5582991301991?text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado."
+                href="https://api.whatsapp.com/send?phone=5582991301991&text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado."
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -142,7 +142,7 @@ const Header = () => {
               ))}
               <Button asChild className="btn-gold w-full mt-4">
                 <a
-                  href="https://wa.me/5582991301991?text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado."
+                  href="https://api.whatsapp.com/send?phone=5582991301991&text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado."
                   target="_blank"
                   rel="noopener noreferrer"
                 >

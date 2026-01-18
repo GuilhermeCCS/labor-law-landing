@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import heroBg from '@/assets/hero-bg.jpg';
 
 const Hero = () => {
-  const whatsappLink = 'https://wa.me/5582991301991?text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado.';
+  const whatsappLink = 'https://api.whatsapp.com/send?phone=5582991301991&text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado.';
 
   return (
     <section
