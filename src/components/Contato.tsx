@@ -11,8 +11,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'WhatsApp / Telefone',
-    value: '(82) 99999-9999',
-    href: 'https://wa.me/5582999999999',
+    value: '(82) 99130-1991',
+    href: 'https://api.whatsapp.com/send?phone=5582991301991&text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado.',
   },
   {
     icon: Mail,
@@ -121,10 +121,10 @@ const Contato = () => {
                   <label className="text-sm font-medium text-foreground mb-2 block">
                     WhatsApp / Telefone
                   </label>
-                  <Input
-                    type="tel"
-                    placeholder="(82) 99999-9999"
-                    value={formData.telefone}
+                    <Input
+                      type="tel"
+                      placeholder="(82) 99130-1991"
+                      value={formData.telefone}
                     onChange={(e) =>
                       setFormData({ ...formData, telefone: e.target.value })
                     }
