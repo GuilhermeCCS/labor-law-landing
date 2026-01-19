@@ -32,7 +32,7 @@ const Sobre = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                O escritório <strong className="text-primary">Bruno Vale Advocacia</strong> nasceu com a missão
+                O escritório <strong className="text-primary">Página Teste</strong> nasceu com a missão
                 de oferecer atendimento jurídico de excelência na área trabalhista,
                 sempre priorizando a <strong className="text-primary">transparência</strong> e a{' '}
                 <strong className="text-primary">dedicação integral</strong> aos interesses dos nossos clientes.

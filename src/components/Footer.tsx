@@ -30,7 +30,7 @@ const Footer = () => {
               <Scale className="h-8 w-8 text-gold-light" />
               <div>
                 <span className="font-display text-xl font-semibold">
-                  Bruno Vale
+                  Página Teste
                 </span>
                 <span className="block text-xs tracking-widest text-white/60 uppercase">
                   Advocacia
@@ -111,11 +111,11 @@ const Footer = () => {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="tel:+5582991301991"
+                  href="tel:+5599999999999"
                   className="flex items-center gap-3 text-white/70 hover:text-gold-light transition-colors text-sm"
                 >
                   <Phone className="h-4 w-4" />
-                  (82) 99130-1991
+                  (55) 9 9999-9999
                 </a>
               </li>
               <li>
@@ -137,7 +137,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-white/50 text-sm text-center md:text-left">
-              © {currentYear} Bruno Vale Advocacia. Todos os direitos reservados.
+              © {currentYear} Página Teste. Todos os direitos reservados.
             </p>
             <p className="text-white/50 text-sm">
               OAB/AL 12.345

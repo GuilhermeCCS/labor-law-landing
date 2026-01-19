@@ -15,7 +15,7 @@ const testimonials = [
     name: 'Abílio da Silva',
     date: 'há 1 mês',
     rating: 5,
-    text: 'Estava com medo de processar a empresa, mas o Dr. Bruno me deu toda confiança e segurança. Resultado além das expectativas.',
+    text: 'Estava com medo de processar a empresa, mas o advogado me deu toda confiança e segurança. Resultado além das expectativas.',
     avatar: 'A',
   },
   {
@@ -36,7 +36,7 @@ const testimonials = [
     name: 'Patricia Santos',
     date: 'há 1 semana',
     rating: 5,
-    text: 'Sofri acidente de trabalho e a empresa queria me demitir. Graças ao Dr. Bruno, consegui estabilidade e indenização.',
+    text: 'Sofri acidente de trabalho e a empresa queria me demitir. Graças ao advogado, consegui estabilidade e indenização.',
     avatar: 'P',
   },
   {
