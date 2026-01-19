@@ -11,8 +11,8 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'WhatsApp / Telefone',
-    value: '(82) 99130-1991',
-    href: 'https://api.whatsapp.com/send?phone=5582991301991&text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado.',
+    value: '(55) 9 9999-9999',
+    href: 'https://api.whatsapp.com/send?phone=5599999999999&text=Ol%C3%A1%2C+gostaria+de+falar+com+um+advogado.',
   },
   {
     icon: Mail,
@@ -123,7 +123,7 @@ const Contato = () => {
                   </label>
                     <Input
                       type="tel"
-                      placeholder="(82) 99130-1991"
+                      placeholder="(55) 9 9999-9999"
                       value={formData.telefone}
                     onChange={(e) =>
                       setFormData({ ...formData, telefone: e.target.value })
