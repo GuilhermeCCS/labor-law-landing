@@ -17,8 +17,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: 'E-mail',
-    value: 'contato@brunovaleadvocacia.com.br',
-    href: 'mailto:contato@brunovaleadvocacia.com.br',
+    value: 'teste@gmail.com',
+    href: 'mailto:teste@gmail.com',
   },
   {
     icon: MapPin,
